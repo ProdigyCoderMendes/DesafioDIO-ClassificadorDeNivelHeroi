@@ -1,5 +1,5 @@
 var nomeHeroi = "GabrielMendesDev"
-var xpHeroi = "12000"
+var xpHeroi = 10000
 var nivelHeroi;
 
 if (xpHeroi < 1000 ) {
